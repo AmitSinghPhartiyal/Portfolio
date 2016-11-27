@@ -1,0 +1,7 @@
+markdown: kramdown
+baseurl: /Portfolio
+exclude: ['README.md']
+paginate: 3
+paginate_path: "/Portfolio/page:num/"
+#gems
+gems: [jekyll-paginate]
